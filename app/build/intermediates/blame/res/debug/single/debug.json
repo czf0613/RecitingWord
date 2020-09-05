@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_up.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\up.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rim.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\drawable\\btn_rim.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_fragment.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\review_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_wrong_layout.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\wrong_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_back.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_wordpress.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\wordpress.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_layout.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_wrong_fragment.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\wrong_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_review.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\drawable\\btn_review.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_down.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\down.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_background.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\background.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_fragment_layout.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\set_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_switch_button.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\switch_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ease_close_icon.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\ease_close_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_layout.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\review_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_x.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\x.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\layout_study_fragment.xml.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\layout\\study_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ease_open_icon.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xhdpi\\ease_open_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\RecitingWord\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\RecitingWord\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

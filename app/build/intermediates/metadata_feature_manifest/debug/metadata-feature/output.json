@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "applicationId": "com.reciting.sockword",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "METADATA_FEATURE_MANIFEST"
+      },
+      "apkData": {
+        "type": "FULL_SPLIT",
+        "splits": [
+          {
+            "filterType": "ABI",
+            "value": "x86"
+          }
+        ],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "filterName": "x86",
+        "outputFile": "app-x86-debug.apk",
+        "fullName": "x86Debug",
+        "baseName": "x86-debug",
+        "dirName": "x86\\"
+      },
+      "path": "x86/AndroidManifest.xml",
+      "properties": {}
+    }
+  ]
+}

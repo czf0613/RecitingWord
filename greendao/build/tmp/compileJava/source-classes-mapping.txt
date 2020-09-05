@@ -1,0 +1,2 @@
+com/reciting/greendao/MyClass.java
+ com.reciting.greendao.MyClass

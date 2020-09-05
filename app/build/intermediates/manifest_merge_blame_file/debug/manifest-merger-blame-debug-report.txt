@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reciting.sockword"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+10    <!-- 允许解锁的权限 -->
+11    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+11-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:5:5-75
+11-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:5:22-72
+12    <!-- 允许使用PowerManager的WakeLocks保持进程在休眠时从屏幕消失 -->
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:7:5-68
+13-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:7:22-65
+14    <!-- 访问网络状态 -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:9:5-79
+15-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:10:5-67
+16-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:10:22-64
+17    <!-- 允许程序禁用键盘锁 -->
+18    <uses-permission android:name="android.Mapermission.DISABLE_KEYGUARD" />
+18-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:12:5-77
+18-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:12:22-74
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:13:5-79
+19-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:13:22-77
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:14:5-80
+20-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:14:22-78
+21
+22    <application
+22-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:16:5-37:19
+23        android:name="com.reciting.util.BaseApplication"
+23-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:22:9-57
+24        android:allowBackup="true"
+24-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:17:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:icon="@mipmap/wordpress"
+28-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:18:9-41
+29        android:label="锁屏背单词"
+29-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:19:9-30
+30        android:roundIcon="@mipmap/wordpress"
+30-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:20:9-46
+31        android:supportsRtl="true"
+31-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:21:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:23:9-40
+34        <meta-data
+34-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:24:9-26:40
+35            android:name="com.google.android.gms.version"
+35-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:25:13-58
+36            android:value="81115000" />
+36-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:26:13-37
+37
+38        <activity android:name="com.reciting.sockword.HomeActivity" >
+38-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:27:9-32:20
+38-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:27:19-68
+39            <intent-filter>
+39-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:28:13-31:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:29:17-69
+40-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:30:17-77
+42-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:30:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.reciting.sockword.MainActivity" />
+45-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:33:9-71
+45-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:33:19-68
+46        <activity android:name="com.reciting.sockword.WrongAcitivty" />
+46-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:34:9-72
+46-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:34:19-69
+47        <activity android:name="com.reciting.sockword.ReviewAcitivty" />
+47-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:35:9-72
+47-->E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:35:19-70
+48    </application>
+49
+50</manifest>

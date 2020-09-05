@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fc4985dc1fd623ce131cc5353f00e836\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\812117b7aef99e5f251e2860e59dfc28\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a1971c4049da27b82c3eba7c20419ef0\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\073e9187a93108798d4ad34d40a04dc4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1a823d37967e5fcf8c053768facb3ccb\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\129d99cb94622317ca7659f78ce97871\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1188695a1de703236989a068c8756eb5\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\decd5a5dd0a6b89b6db2891ef306ea89\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\3ea01131001cf7c54b439a347fa5dc6f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fe3363d9773c8d4a5df3fce06c0d494d\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\91e2b18f412d14f7af5280964cb2c994\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1a0ea9b62183095a0d0d5ae43c853c93\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\61d8c0136f0ea8b1e7f184b0a6bb49ca\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\80462981364ecbed68c084b120ed2801\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\12c2d9bf7ebd845f9993ec82606b706a\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a758f7229c837a397987ddb730888365\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\b6e88f772f1cfdbede181a8d83195c25\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1814c7ad634edeae414ecdee9933c01c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\ff428e42535a9820d5d8e9eac2dab004\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a1115fcf4317d6680cd04889a2f0338a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\e73d8beaa3067e2b9b890516e0c812ee\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.Mapermission.DISABLE_KEYGUARD
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:16:5-37:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fc4985dc1fd623ce131cc5353f00e836\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fc4985dc1fd623ce131cc5353f00e836\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\80462981364ecbed68c084b120ed2801\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\80462981364ecbed68c084b120ed2801\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:19:9-30
+	android:roundIcon
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:20:9-46
+	android:icon
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:22:9-57
+meta-data#com.google.android.gms.version
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:value
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:25:13-58
+activity#com.reciting.sockword.HomeActivity
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:27:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.reciting.sockword.MainActivity
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:33:19-68
+activity#com.reciting.sockword.WrongAcitivty
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:34:9-72
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:34:19-69
+activity#com.reciting.sockword.ReviewAcitivty
+ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:35:9-72
+	android:name
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml:35:19-70
+uses-sdk
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fc4985dc1fd623ce131cc5353f00e836\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fc4985dc1fd623ce131cc5353f00e836\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\812117b7aef99e5f251e2860e59dfc28\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\812117b7aef99e5f251e2860e59dfc28\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a1971c4049da27b82c3eba7c20419ef0\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a1971c4049da27b82c3eba7c20419ef0\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\073e9187a93108798d4ad34d40a04dc4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\073e9187a93108798d4ad34d40a04dc4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1a823d37967e5fcf8c053768facb3ccb\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1a823d37967e5fcf8c053768facb3ccb\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\129d99cb94622317ca7659f78ce97871\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\129d99cb94622317ca7659f78ce97871\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1188695a1de703236989a068c8756eb5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1188695a1de703236989a068c8756eb5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\decd5a5dd0a6b89b6db2891ef306ea89\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\decd5a5dd0a6b89b6db2891ef306ea89\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\3ea01131001cf7c54b439a347fa5dc6f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\3ea01131001cf7c54b439a347fa5dc6f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fe3363d9773c8d4a5df3fce06c0d494d\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\fe3363d9773c8d4a5df3fce06c0d494d\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\91e2b18f412d14f7af5280964cb2c994\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\91e2b18f412d14f7af5280964cb2c994\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1a0ea9b62183095a0d0d5ae43c853c93\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1a0ea9b62183095a0d0d5ae43c853c93\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\61d8c0136f0ea8b1e7f184b0a6bb49ca\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\61d8c0136f0ea8b1e7f184b0a6bb49ca\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\f117d6def0b122705743ed6144584c71\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\80462981364ecbed68c084b120ed2801\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\80462981364ecbed68c084b120ed2801\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\12c2d9bf7ebd845f9993ec82606b706a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\12c2d9bf7ebd845f9993ec82606b706a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a758f7229c837a397987ddb730888365\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a758f7229c837a397987ddb730888365\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\b6e88f772f1cfdbede181a8d83195c25\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\b6e88f772f1cfdbede181a8d83195c25\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1814c7ad634edeae414ecdee9933c01c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\1814c7ad634edeae414ecdee9933c01c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\ff428e42535a9820d5d8e9eac2dab004\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\ff428e42535a9820d5d8e9eac2dab004\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a1115fcf4317d6680cd04889a2f0338a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\a1115fcf4317d6680cd04889a2f0338a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\e73d8beaa3067e2b9b890516e0c812ee\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\13540\.gradle\caches\transforms-2\files-2.1\e73d8beaa3067e2b9b890516e0c812ee\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\RecitingWord\app\src\main\AndroidManifest.xml

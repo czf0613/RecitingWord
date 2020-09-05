@@ -1,0 +1,57 @@
+com/reciting/greendao/entity/greendao/DaoMaster.java
+ com.reciting.greendao.entity.greendao.DaoMaster
+ com.reciting.greendao.entity.greendao.DaoMaster$DevOpenHelper
+ com.reciting.greendao.entity.greendao.DaoMaster$OpenHelper
+com/reciting/adapter/CardFragmentPagerAdapter.java
+ com.reciting.adapter.CardFragmentPagerAdapter
+com/reciting/util/SwitchButton.java
+ com.reciting.util.SwitchButton
+com/reciting/greendao/entity/greendao/DaoSession.java
+ com.reciting.greendao.entity.greendao.DaoSession
+com/reciting/fragment/ReviewFragment.java
+ com.reciting.fragment.ReviewFragment
+com/reciting/fragment/SetFragment.java
+ com.reciting.fragment.SetFragment
+ com.reciting.fragment.SetFragment$1
+ com.reciting.fragment.SetFragment$2
+ com.reciting.fragment.SetFragment$3
+ com.reciting.fragment.SetFragment$4
+ com.reciting.fragment.SetFragment$5
+com/reciting/fragment/CardFragment.java
+ com.reciting.fragment.CardFragment
+com/reciting/util/AndroidStateDetection.java
+ com.reciting.util.AndroidStateDetection
+com/reciting/transform/CardTransformer.java
+ com.reciting.transform.CardTransformer
+com/reciting/sockword/WrongAcitivty.java
+ com.reciting.sockword.WrongAcitivty
+com/reciting/util/ScreenListener.java
+ com.reciting.util.ScreenListener
+ com.reciting.util.ScreenListener$1
+ com.reciting.util.ScreenListener$ScreenBroadcastReceiver
+ com.reciting.util.ScreenListener$ScreenStateListener
+com/reciting/sockword/ReviewAcitivty.java
+ com.reciting.sockword.ReviewAcitivty
+com/reciting/greendao/entity/greendao/CET4Entity.java
+ com.reciting.greendao.entity.greendao.CET4Entity
+com/reciting/sockword/HomeActivity.java
+ com.reciting.sockword.HomeActivity
+ com.reciting.sockword.HomeActivity$1
+com/reciting/sockword/BuildConfig.java
+ com.reciting.sockword.BuildConfig
+com/reciting/greendao/entity/greendao/WisdomEntityDao.java
+ com.reciting.greendao.entity.greendao.WisdomEntityDao
+ com.reciting.greendao.entity.greendao.WisdomEntityDao$Properties
+com/reciting/greendao/entity/greendao/WisdomEntity.java
+ com.reciting.greendao.entity.greendao.WisdomEntity
+com/reciting/greendao/entity/greendao/CET4EntityDao.java
+ com.reciting.greendao.entity.greendao.CET4EntityDao
+ com.reciting.greendao.entity.greendao.CET4EntityDao$Properties
+com/reciting/util/BaseApplication.java
+ com.reciting.util.BaseApplication
+com/reciting/adapter/ReviewFragmentPagerAdapter.java
+ com.reciting.adapter.ReviewFragmentPagerAdapter
+com/reciting/fragment/StudyFragment.java
+ com.reciting.fragment.StudyFragment
+com/reciting/sockword/MainActivity.java
+ com.reciting.sockword.MainActivity
